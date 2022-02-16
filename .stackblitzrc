@@ -1,3 +1,3 @@
 {
-  "startCommand": "npm run vite"
+  "startCommand": "npm run dev"
 }
