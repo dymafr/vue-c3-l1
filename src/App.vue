@@ -1,5 +1,5 @@
 <template>
-  <h1>Bonjour {{ name }}</h1>
+  <h1>Bonjour {{ name.toUpperCase() }}</h1>
 </template>
 
 <script setup lang="ts">
